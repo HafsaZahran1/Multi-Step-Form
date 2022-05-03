@@ -2,7 +2,7 @@
 Build Multiple Step Form with HTML, CSS, and JavaScript
 
 
-![form1](https://user-images.githubusercontent.com/73903183/166346021-9a38e1a7-d69f-4df0-8bc2-8bdc39d474db.jpg)
+![form](https://user-images.githubusercontent.com/73903183/166430659-57e900a8-ea9c-4b1a-a558-b860deb585b6.jpg)
 
 # Welcome😃 
 In this project I learned about how to create multi-step form.
