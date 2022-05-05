@@ -19,3 +19,7 @@ Multi-step form is nothing but a single lengthy form broken into multiple pieces
   JavaScript
  
 ````
+# Summerized Video for the code and web page 
+https://user-images.githubusercontent.com/73903183/166919733-cb11e5b9-a3b2-413e-b70f-101365686481.mp4
+ ## Click Here to go to the full explained video 👇😃
+ https://youtu.be/HsncZsGZMCw
